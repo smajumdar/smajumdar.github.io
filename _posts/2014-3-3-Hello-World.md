@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "You're up and running!"
+title: "Hello World!"
 published: true
 ---
 
 
-**Hello World!**
+It is nice to be able to say Hello.
